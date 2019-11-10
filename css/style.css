@@ -1,0 +1,121 @@
+html {
+  background-color: rosybrown; }
+
+.button {
+  margin: 0 auto;
+  display: block;
+  border: 3px grey solid;
+  font-family: tahoma;
+  font-size: 14px;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: #ccc;
+  transition: width 0.4s ease-in-out;
+  text-align: center; }
+
+.input {
+  margin: 0 auto;
+  display: block;
+  border: none;
+  height: 50px;
+  width: 280px;
+  border-bottom: 3px solid grey;
+  border-radius: 10px;
+  background-color: #ccc;
+  padding: 12px 20px;
+  text-decoration: none; }
+
+html {
+  background-color: rosybrown; }
+
+.button {
+  margin: 0 auto;
+  display: block;
+  border: 3px grey solid;
+  font-family: tahoma;
+  font-size: 14px;
+  border-radius: 10px;
+  height: 50px;
+  width: 80px;
+  background-color: #ccc;
+  transition: width 0.4s ease-in-out;
+  text-align: center; }
+
+.input {
+  margin: 0 auto;
+  display: block;
+  border: none;
+  height: 50px;
+  width: 280px;
+  border-bottom: 3px solid grey;
+  border-radius: 10px;
+  background-color: #ccc;
+  padding: 12px 20px;
+  text-decoration: none; }
+
+p {
+  font-size: 14px;
+  color: #000;
+  font-weight: normal;
+  font-style: normal;
+  font-family: sans-serif; }
+
+h1 {
+  font-size: 36px;
+  color: #000;
+  font-weight: normal;
+  font-style: normal;
+  font-family: sans-serif; }
+
+h3 {
+  font-size: 20px;
+  color: #0000ff;
+  font-weight: normal;
+  font-style: normal;
+  font-family: sans-serif; }
+
+.button:hover {
+  height: 80px;
+  width: 140px;
+  background-color: #ccc;
+  border: 7px solid #bbb;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px; }
+
+.button:active {
+  height: 20px;
+  width: 800px;
+  background-color: aqua;
+  border: 10 px solid aqua; }
+
+.button:focus {
+  height: 60px;
+  width: 180px;
+  text-transform: uppercase;
+  background-color: #777;
+  border: 4px solid lavender; }
+
+.button:disabled {
+  height: 20px;
+  width: 80px;
+  background-color: #444;
+  border: 10px solid red; }
+
+.input:hover {
+  background-color: #ddd;
+  border: 4px solid #ccc;
+  outline: none;
+  padding: 20px; }
+
+.input:active {
+  background-color: #ddd;
+  border: 4px solid #ccc;
+  outline: none;
+  padding: 20px; }
+
+.input:focus {
+  background-color: #ddd;
+  border: 7px solid #bbb;
+  outline: none; }
